@@ -32,17 +32,16 @@ Watch the demo of the models and their deployment: [https://azureloyalistcollege
 
 ## Contributors
 
-- **Bhupinder Singh**
 - **Dhanush Chandar**
-- **Jini Zacharias**
-- **Navneet Kaur**
-- **Obitha Thomas**
 - **Pulkit Batra**
+- **Jini Zacharias**
+- **Obitha Thomas**
 - **Shekhar Kaviraj**
 - **Sumith Vadla**
 - **Vishal Dadabhai**
 - **Aman Belwal**
-
+- **Navneet Kaur**
+- **Bhupinder Singh**
 
 
 
