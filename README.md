@@ -1,4 +1,4 @@
-### Find the link to the model pkl files here
+### Find the link to the model pkl and h5 files here
 https://azureloyalistcollege-my.sharepoint.com/:f:/g/personal/dhanushchandarsiv_loyalistcollege_com/EtNsaedD6JRIuFSlYT4GScEBRbNAVAN3KiHS4ca8cRr-4w?e=RUB4oE
 
 # Group1_DL-Case-Study-1
